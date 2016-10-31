@@ -1,7 +1,7 @@
 {
   "name": "dcg",
   "version": "0.0.1",
-  "description": "Asynchronous task graphs supporting incremental computation",
+  "description": "Directed computation graphs",
   "homepage": "http://github.com/zeekay/dcg",
   "bugs": "http://github.com/zeekay/dcg/issues",
   "keywords": [
