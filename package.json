@@ -1,7 +1,7 @@
 {
   "name": "dcg",
   "version": "0.0.1",
-  "description": "Directed computation graphs",
+  "description": "Demanded computation graphs with support for incremental computation.",
   "homepage": "http://github.com/zeekay/dcg",
   "bugs": "http://github.com/zeekay/dcg/issues",
   "keywords": [

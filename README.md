@@ -1,5 +1,5 @@
 # dcg [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Dependency Status][dependency-img]][dependency-url] [![Gitter chat][gitter-img]][gitter-url]
-#### Incremental computation using directed computation graphs.
+#### Demanded computation graph with support for incremental computation.
 
 
 [examples]:           https://github.com/zeekay/dcg/blob/master/test/test.coffee
